@@ -2,6 +2,10 @@
 
 This is a Streamlit web application that uses **Google Gemini AI** to summarize invoice details from an uploaded image. The application accepts an image of an invoice and a text prompt, and it generates a response that summarizes the invoice’s content.
 
+## 🌐 Live Demo
+
+Check out the deployed version of the app here: [Multilanguage Invoice Extractor](https://invoice-extractor-multilang.streamlit.app/)
+
 ## Features
 
 - Upload an image (JPG, JPEG, PNG) of an invoice.
